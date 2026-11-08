@@ -1,0 +1,10 @@
+build/
+src/
+
+# 配置文件
+*.vscode/
+*.code-workspace
+*.cfg
+
+drivers/
+Infantry/
